@@ -2,30 +2,40 @@ body {
         max-width: 700px;
         width: 80%;
         margin: 20px auto;
-        padding: 10px;
-        /*border: 20px solid #bdc3c7;*/
+        padding: 25px 0;
         font-family: 'Source Sans Pro', sans-serif;
         background: #cbe0e0;
 }
 
 h2 {
-        color: #48698a;
+        color: #657073;
         font-size: 2.0rem;
 }
 
 h1 {
-        color: #286190;
+        color: #657073;
         text-align: center;
         padding-bottom: 12px;
         border-bottom: 1px solid grey;
+}
 
+p {
+        font-size: 19px;
+        color: #36383d;
+        display: block;
+        margin: 25px 0;
+        line-height: 1.5em;
 }
 
 #container{
         background: #fff;
         margin: 0 auto;
-        padding: 5px 50px;
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+        padding: 10px 50px;
+        box-sizing: border-box;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+        -webkit-font-smoothing: antialiased;
+        max-width: 980px;
 }
 
 .quote {
