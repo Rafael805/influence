@@ -2,11 +2,9 @@ body {
         max-width: 700px;
         width: 80%;
         margin: 20px auto;
-        padding: 20px;
-        border: 20px solid #bdc3c7;
+        padding: 10px;
+        /*border: 20px solid #bdc3c7;*/
         font-family: 'Source Sans Pro', sans-serif;
-        /*box-shadow: 5px 5px 5px #888888;*/
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
         background: #cbe0e0;
 }
 
@@ -23,13 +21,11 @@ h1 {
 
 }
 
-div {
-        border-bottom: 1px solid grey;
-        padding-bottom: 10px;
-}
-
-.inner-page {
-        background: white;
+#container{
+        background: #fff;
+        margin: 0 auto;
+        padding: 5px 50px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
 }
 
 .quote {
@@ -47,4 +43,6 @@ div {
 
 .post {
         margin-bottom: 20px;
+        border-bottom: 1px solid grey;
+        padding-bottom: 10px;
 }
