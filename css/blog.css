@@ -28,6 +28,10 @@ div {
         padding-bottom: 10px;
 }
 
+.inner-page {
+        background: white;
+}
+
 .quote {
         border-left: 5px solid #bdc3c7;
         padding-left: 5px;
