@@ -7,6 +7,7 @@ body {
         font-family: 'Source Sans Pro', sans-serif;
         /*box-shadow: 5px 5px 5px #888888;*/
         box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+        background: #cbe0e0;
 }
 
 h2 {
